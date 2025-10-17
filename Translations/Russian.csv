@@ -7124,3 +7124,14 @@ must.own,Необходимо иметь,,a label for requirement to own somethi
 verb.copy,Копировать,,
 verb.paste,Вставить,,
 adj.identical,Идентичны,,when two items are identical
+opinion.good,Хорошее,,as in opinion about someone: good (START OF v014 translations)
+opinion.bad,Плохое,,as in opinion about someone: bad
+verb.hates,Ненавидит,,toward another person
+noun.attraction,Влечение,,sexual attraction
+noun.friend,Друг,,
+noun.lover,Любовник,,
+noun.friendship,Дружба,,as in friendship level (will be expressed as percentage)
+noun.party,Вечеринка,,as in birthday party
+noun.party.custom,{0}!,,"{0} will be something like Birthday or Wedding, or even Birthday / Wedding"
+party.desc,{0} устраивают вечеринку!,,{0} will be replaced by a comma separated list of names
+
